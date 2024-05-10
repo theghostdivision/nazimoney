@@ -1,15 +1,15 @@
 # General settings
 # ---------------------------------------------------------------------------------------
-url:                  https://www.erbschuld.info
+url:                  https://www.nazimoney.com
 baseurl:              ""
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  de
+lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Die Erbschulden
-breadcrumb:            Erbschulden
+title:                 The Nazimoney
+breadcrumb:            Nazimoney
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -34,7 +34,7 @@ logo:                  /assets/img/avatars/the-sigil-of-life.png
 author:
   # Used by `jekyll-feed`:
   name:                The Nick
-  email:               <ghost@erbschuld.info>
+  email:               <ghost@nazimoney.com>
   picture:             /assets/img/avatars/clever-devil.png
   social:
     twitter:             Save_The_Nick
@@ -157,7 +157,7 @@ kramdown:
 
 algolia:
   application_id: "6H2JGBG86V"
-  index_name: "erbschuld"
+  index_name: "nazimoney"
   search_only_api_key: "6e146271852acd8912a4f1fda7613b2e"
 
 lightbox: true
@@ -171,7 +171,7 @@ comments:
 # Make sure all variables are set properly. Check below link for detail.
 # https://utteranc.es/
 utterances:
-  repo:                "theghostdivision/erbschuld"
+  repo:                "theghostdivision/nazimoney"
   issue-term:          "pathname"
   label:               "Comments"
   theme:               "dark-blue"
@@ -180,10 +180,10 @@ utterances:
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
 giscus:
-  repo:                "theghostdivision/erbschuld"
-  repo-id:             "R_kgDOL3tDGg"
+  repo:                "theghostdivision/nazimoney"
+  repo-id:             "R_kgDOL5lMgw"
   category:            "General"
-  category-id:         "DIC_kwDOL3tDGs4CfKzo"
+  category-id:         "DIC_kwDOL5lMg84CfQuN"
   mapping:             "pathname"
   reaction-enabled:    "1"
   theme:               "light_protanopia"
