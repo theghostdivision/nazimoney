@@ -18,7 +18,7 @@ Auf einigen Webseiten können Medien von Drittanbietern wie Flickr, Spotify oder
 
 Sollten Sie einen Kommentar abgeben, wird dieser auf der Grundlage Ihrer Einwilligung verarbeitet, um ihn im jeweiligen Kommentarbereich zu veröffentlichen. Dazu wird ebenfalls Ihre E-Mail-Adresse gespeichert, um Ihren Kommentar und Ihre Datenschutzanfragen weiterverfolgen zu können. Zur Löschung eines oder mehrerer Kommentare senden Sie bitte eine Email.
 
-**Email:** nie-wieder(at)erbschuld.info\\
-**PGP:** `1803 3F3A 9189 8459 A6F4  6A21 C759 840C 482A B150`
+**Email:** my(at)nazimoney.com\\
+**PGP:** `6BE0 ACC2 5A00 9EE4 C657 8B95 64F0 96D0 672C D5EE`
 
 Diese Datenschutzrichtlinie kann jederzeit und ohne vorherige Ankündigung geändert werden.
