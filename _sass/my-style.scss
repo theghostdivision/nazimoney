@@ -1,0 +1,144 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .8rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .45rem;
+    }
+  }
+
+  .btn, .gumroad-button {
+    margin: 1rem 0;
+  }
+}
+
+.sidebar a::after {
+  color: white!important;
+}
+
+a[href*="://github.githubassets.com/"]:not(.no-mark-external):not(.no-mark)::after {
+  display: none;
+}
+
+a[href*="://scontent-muc2-1.xx.fbcdn.net/"]:not(.no-mark-external):not(.no-mark)::after {
+  display: none;
+}
+
+br {
+  display: block;
+  content: "";
+  border-bottom: 10px solid transparent;
+}
+
+h1[id] {
+  display: none;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin: 1rem 0 1rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+  margin: 1rem 0 1rem;
+}
+
+hr {
+  margin: 0;
+}
+
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  font-size: 0.9rem;
+}
+
+ul {
+  margin-bottom: 1.25rem;
+}
+
+.layout-blog .page>header {
+  display: block;
+}
+
+.layout-post .page>header {
+  display: block;
+}
+
+.content {
+  padding: 6.5rem 1rem 12rem;
+}
+
+.footnotes {
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+.fine {
+  color: white;
+}
+
+.giscus, .giscus-frame {
+  width: 100%;
+}
+
+.giscus-frame {
+  border: none;
+}
+
+.home-message-special {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.icon-github {
+  color: white;
+}
+
+.mb6 {
+  margin-bottom: 0;
+}
+
+.nav-span {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: grey;
+}
+
+.page>header {
+  display: none;
+}
+
+.sidebar-nav>ul {
+  margin-bottom: 0;
+}
+
+.sidebar-social>ul>li>a {
+  height: 3.5rem;
+}
+
+.table-small {
+  font-size: 0.75rem;
+  margin-bottom: 0.5rem!important;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.utterances {
+  max-width: 100%;
+}
+
+@media screen and (min-width: 1664px)
+{
+  main {
+      padding-bottom: 150px;
+  }
+}
